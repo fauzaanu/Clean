@@ -1,0 +1,7 @@
+Pictures>jpeg,png,jpg,jpeg,gif,tiff,psd,ai,eps
+Videos>mp4,mpeg,avi,mov,wmv,avchd,mkv,webm
+Audio>mp3,flac,ogg,aac,vorbis,wma
+Docs>docx,doc,xlsx,odt,pdf,xls,ppt,pptx,txt
+Applications>exe,jar
+Archives>zip,rar
+Shortcuts>url,lnk
